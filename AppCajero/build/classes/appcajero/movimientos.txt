@@ -1,0 +1,5 @@
+Movimientos de 12345:
+Saldo: $750.0
+Cuenta 12345: $1000.0
+Cuenta 12345-1: $250.0
+Cuenta 12345-2: $0.0
